@@ -1,0 +1,7 @@
+.result-holder {
+  display: inline-block;
+  width: 200px;
+  border: 1px solid gray;
+  padding: 5px;
+  border-radius: 5px;
+}
